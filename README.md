@@ -59,12 +59,12 @@ Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-20B2AA?style=for-the-badge)
+![Vue](https://img.shields.io/badge/vue.js-20B2AA?style=for-the-badge&logo=vue.js&logoColor=white)
 ![PHP7](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![LARAVEL](https://img.shields.io/badge/LARAVEL-F05340?style=for-the-badge&logo=laravel&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-20B2AA?style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-ff0000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
 ** Like to use: **
