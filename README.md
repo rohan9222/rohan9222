@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://komarev.com/ghpvc/?username=rohan9222)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohan9222)](https://github.com/anuraghazra/github-readme-stats)
