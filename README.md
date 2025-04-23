@@ -91,5 +91,5 @@ Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, 
 
 <div>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rohan9222&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan9222&layout=compact&langs_count=7&theme=radical"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohan9222&exclude_repo=github-readme-stats,anuraghazra.github.io"/>
 </div>
