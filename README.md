@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![👑 I am Web Developer 🖊️ Love to write code 🎤 Like to share my knowledge]()
 
 ### Hi, I'm Jahangir Alam Rohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-👑 I'm Backend Developer <br>
+👑 I'm Full Stack Web Developer <br>
 🖊️ Love to write code <br>
 🎤 Like to share my knowledge <br>
 📫 How to reach me ? rohan9222@gmail.com <be>
