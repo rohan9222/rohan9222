@@ -66,7 +66,34 @@ Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-ff0000?style=for-the-badge&logo=oracle&logoColor=white)
 
+https://ssnpro.ru/ <br>
+https://billing.fcnetwork24.com/
+
+## Customaize
+https://glotexbd.com/  <br>
+https://posnoc.com/
+### 🚀 My Large Scale Projects
+## 🌐 Full Websites
+### pharmachy depo management system 🔗 https://soft.impexpharmabd.com/ for 🔗🎥[Live Demo](https://pharma.codepagol.com/) Link  <br>
+### pharmachy depo management system 🔗 https://soft.impexpharmabd.com/ for 🔗🎥[Live Demo](https://pharma.codepagol.com/) Link  <br>
+### pharmachy depo management system 🔗 https://soft.impexpharmabd.com/ for 🔗🎥[Live Demo](https://pharma.codepagol.com/) Link  <br>
+## Demo
+![Screenshot](https://example.com/screenshot.png)  
+🔗 [Live Demo](https://yourprojectlink.com)
+
+🔗 https://ssnpro.ru/
+
+ISP Billing System
+🔗 https://billing.fcnetwork24.com/
+
+⚙️ Customized Solutions
+GlotexBD – Corporate Site
+🔗 https://glotexbd.com/
+
+POSNOC – Retail POS System
+🔗 https://posnoc.com/
 <br>
+
 ** Like to use: **
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
