@@ -97,7 +97,7 @@ Welcome to my GitHub profile! I'm a dedicated backend developer based in Dhaka, 
 <br>
 
 # Github Statistics
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rohan9222&theme=onedark)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=rohan9222)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/rohan9222)
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square&color=brightgreen)
